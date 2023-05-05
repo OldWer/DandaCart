@@ -16,6 +16,8 @@ This repository contains the KiCad projects for three PCBs: the base board (Dand
 ## Building the DandaCart
 The Bill of Materials can be found in the DandaCartBase/BOM directory and is almost the same as for the original Dandanator, only instead of the PLCC socket a 2x18pin edge card connector is used. As for the cartridge connector, when soldering it to the base board, two pins will have to be removed; I was originally planning for the cartridges to have a notch in the PCB and for the edge connector to have a keying tab, but I had run into difficulties with the notch on the panelized layout, so I finally decided for the cartridge housing itself to be keyed (to prevent incorrect insertion), but by then I had already routed quite a few traces through the gap, and with the cartridge slot running across the board it was really difficult to route all the traces to the rear expansion connector, so I decided to leave it like that.
 
+![DandaPhoto2](Images/20230505_233213.jpg)
+
 The 3DModels directory contains STL files for printing the base board enclosure and the cartridge enclosure. There is also a Label directory with a label for the cartridges (to be printed on adhesive 10x15 cm photo paper).
 
 All the software, such as .hex and .jed files for programming the onboard microcontroller and the GAL chip, manuals etc. are available at the Dandanator site:
