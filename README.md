@@ -18,10 +18,12 @@ The 3DModels directory contains STL files for printing the base board enclosure 
 
 All the software, such as .hex and .jed files for programming the onboard microcontroller and the GAL chip, manuals etc. are available at the Dandanator site:
 http://www.dandare.es/Proyectos_Dandare/Proyectos.html
+The Multiply expansion Github repository is available at:
+https://github.com/mad3001/Multiply
 
 ## License
 LICENSE: CC BY-SA 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Acknowledgements
-Of course, full credits go to Dandare, the creator of the original Dandanator. All I did was some PCB routing and some light CAD work. Special thanks to Artur Gruetz for his idea of replaceable cartridges!
+Of course, full credits go to Dandare, the creator of the original Dandanator, as well as Mad3001 and OverCLK, the co-creators of the Multiply expansion. All I did was some PCB routing and some light CAD work. Special thanks to Artur Gruetz for his idea of replaceable cartridges!
