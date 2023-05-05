@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "p_w_conn_d-sub")(type "KiCad")(uri "$(KIPRJMOD)/pcb libs/modules/w_conn_d-sub.pretty")(options "")(descr "DB9 Connector"))
+  (lib (name "p_w_pin_strip")(type "KiCad")(uri "$(KIPRJMOD)/pcb libs/modules/w_pin_strip.pretty")(options "")(descr "Jumper"))
+  (lib (name "p_w_pth_diodes")(type "KiCad")(uri "$(KIPRJMOD)/pcb libs/modules/w_pth_diodes.pretty")(options "")(descr "Diode"))
+  (lib (name "p_w_pth_plcc")(type "KiCad")(uri "$(KIPRJMOD)/pcb libs/modules/w_pth_plcc.pretty")(options "")(descr "PLCC Socket"))
+  (lib (name "p_w_pth_resistors")(type "KiCad")(uri "$(KIPRJMOD)/pcb libs/modules/w_pth_resistors.pretty")(options "")(descr "Resistors"))
+  (lib (name "p_w_switch")(type "KiCad")(uri "$(KIPRJMOD)/pcb libs/modules/w_switch.pretty")(options "")(descr "Switches"))
+  (lib (name "p_zx_legacy")(type "Legacy")(uri "$(KIPRJMOD)/pcb libs/modules/zx_legacy.mod")(options "")(descr ""))
+)

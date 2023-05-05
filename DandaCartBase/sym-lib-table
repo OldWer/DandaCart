@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "zx")(type "Legacy")(uri "${KIPRJMOD}/sch libs/zx.lib")(options "")(descr ""))
+  (lib (name "PIC16F1826")(type "Legacy")(uri "${KIPRJMOD}/sch libs/PIC16F1826.lib")(options "")(descr ""))
+  (lib (name "28SF040")(type "Legacy")(uri "${KIPRJMOD}/sch libs/28SF040.lib")(options "")(descr ""))
+  (lib (name "GAL22V10-DMV2")(type "Legacy")(uri "${KIPRJMOD}/sch libs/GAL22V10-DMV2.lib")(options "")(descr ""))
+)
