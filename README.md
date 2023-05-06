@@ -1,6 +1,6 @@
 ![DandaCart](Images/dandacart_logo.png)
 # Dandanator Cartridge System
-Most of us ZX Spectrum fans are well aware of the ZX Dandanator! Mini, a game cartridge for Spectrum computers. It is a fine piece of hardware, the only problem is that the ROM quickly gets filled with games, especially if you want to play Multiload titles, and then there are some hard choices about what to keep and what to delete. This project, based on the idea of my fellow retro enthusiast Artur Gruetz, aims to rectify it.
+Most of us ZX Spectrum fans are well aware of the ZX Dandanator! Mini, a game cartridge for the Spectrum computers. It is a fine piece of hardware, the only problem is that the ROM quickly gets filled with games, especially if you want to play Multiload titles, and then there are some hard choices about what to keep and what to delete. This project, based on the idea of my fellow retro enthusiast Artur Gruetz, aims to rectify it.
 
 The DandaCart simply moves the onboard memory chip to a cartridge. The device remains fully compatible with the original Dandanator (including Multiply and joystick support). Now you can burn as many cartridges as you want and simply swap them out as necessary! There is also something very satisfying about inserting a real, physical cartridge to play a game.
 
