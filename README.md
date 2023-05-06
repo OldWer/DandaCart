@@ -18,7 +18,7 @@ The Bill of Materials can be found in the DandaCartBase/BOM directory and is alm
 
 ![DandaPhoto2](Images/20230505_233213.jpg)
 
-The 3DModels directory contains STL files for printing the base board enclosure and the cartridge enclosure. There is also a Label directory with a label for the cartridges (to be printed on adhesive 10x15 cm photo paper).
+The 3DModels directory contains STL files for printing the base board enclosure and the cartridge enclosure. There is also a Label directory with a label for the cartridges (to be printed on self-adhesive 10x15 cm photo paper).
 
 All the software, such as .hex and .jed files for programming the onboard microcontroller and the GAL chip, manuals etc. are available at the Dandanator site:
 http://www.dandare.es/Proyectos_Dandare/Proyectos.html
