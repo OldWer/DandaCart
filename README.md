@@ -8,7 +8,7 @@ One of the stated goals of the Dandanator project is to be “a platform for dev
 
 ![DandaPhoto](Images/20230505_165824.jpg)
 
-This repository contains the KiCad projects for three PCBs: the base board (_DandaCartBase_) and two versions of the cartridge board (_DandaCartDIP_ and _DandaCartPLCC_). You can choose the cartridge PCB version based on the type of the SST39SF040 memory you have available (DIP-32 or PLCC-32); be aware, however, that the PLCC version is more difficult to solder, there is no PLCC socket in the design, because the cartridge would become too bulky then. The “Gerbers” directory contains ZIPs ready for manufacturing — the cartridge PCBs are already panelized (six cartridge PCBs on one board).
+This repository contains the KiCad projects for three PCBs: the base board (_DandaCartBase_) and two versions of the cartridge board (_DandaCartDIP_ and _DandaCartPLCC_). You can choose the cartridge PCB version based on the type of the SST39SF040 memory you have available (DIP-32 or PLCC-32); be aware, however, that the PLCC version is more difficult to solder, there is no PLCC socket in the design, because the cartridge would become too bulky then. The _Gerbers_ directory contains ZIPs ready for manufacturing — the cartridge PCBs are already panelized (six cartridge PCBs on one board).
 
 ## See DandaCart in action
 [Youtube Video](https://youtu.be/q8KvgayKHwo)
